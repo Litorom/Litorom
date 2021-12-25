@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi everyone it's Litorom(1)!
 
-<!--
-**Litorom/Litorom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Views](https://komarev.com/ghpvc/?username=TheBigEye&theme=vue)
+[![Github](https://img.shields.io/github/followers/Litorom?label=Follow&style=social&theme=vue)](https://github.com/TheBigEye)
 
-Here are some ideas to get you started:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Litorom&count_private=true&show_icons=true&theme=vue)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Minicraft+ by Chris J.
+- 🌱 I’m currently learning: Java
+- 📫 How to reach me: Litorom1#1038 (Discord)
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: null
+
