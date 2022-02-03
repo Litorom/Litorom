@@ -5,7 +5,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Litorom&count_private=true&show_icons=true&theme=vue)
 
-- 🔭 I’m currently working on Minicraft+ by Chris J.
+- 🔭 I’m currently working on [Minicraft+](https://github.com/MinicraftPlus/minicraft-plus-revived) by [Chris J.](https://github.com/chrisj42) and the [PlayMinicraft Team](https://github.com/MinicraftPlus).
 - 🌱 I’m currently learning: Java
 - 📫 How to reach me: Litorom1#1038 (Discord)
 - 😄 Pronouns: He/him
