@@ -1,7 +1,7 @@
 ## Hi everyone it's Litorom(1)!
 
 ![Views](https://komarev.com/ghpvc/?username=Litorom&theme=vue)
-[![Github](https://img.shields.io/github/followers/Litorom?label=Follow&style=social&theme=vue)](https://github.com/TheBigEye)
+[![Github](https://img.shields.io/github/followers/Litorom?label=Follow&style=social&theme=vue)](https://github.com/Litorom)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Litorom&count_private=true&show_icons=true&theme=vue)
 
