@@ -13,4 +13,3 @@
 - 📫 How to reach me: Litorom1#1038 (Discord)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: null
-
