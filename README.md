@@ -9,7 +9,7 @@ Hello World! It's LitoRom1!
 - 🗣 Intro saying: Hi everyone, it's LitoRom1
 - 🏷 Usernames: LitoRom1, LitoRom
 - 🌱 I’m currently learning: Java
-- 🎮 [Game Design Projects](https://github.com/Litorom/Litorom/Projects.md)
+- 🎮 [Game Design Projects](https://github.com/Litorom/Litorom/blob/main/Projects.md)
 - 📫 How to reach me: Litorom1#1038 (Discord)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: null
