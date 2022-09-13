@@ -1,7 +1,7 @@
-###Character: Ghost
+#Character: Ghost
 
 ## About
 * Origin
-** Unknown
+ * Unknown
 * Location
-** Forest of mist
+ * Forest of mist
