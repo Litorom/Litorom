@@ -1,6 +1,6 @@
-#Character: Ghost
+## Character: Ghost
 
-## About
+# About
 * Origin
  * Unknown
 * Location
