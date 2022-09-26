@@ -1,12 +1,12 @@
-## Character: Ghost
+# Character: Ghost
 
-# About
+## About
 * Origin: Unknown
 * Location: Forest of mist
 * Relationship: Friend
 * Also know as: Ghosty
 
-# History
+## History
 * Namespace Time Stamp:1000
 Ghost, who originates from an unknown place.
 Found himself in the Forest of mist scared and alone.
