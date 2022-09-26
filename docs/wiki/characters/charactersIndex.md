@@ -1,6 +1,6 @@
 # Characters:
 
-## Navigation
+## Navigation (Lito's Namespace Universe)
 Lito's Friends:
 * [Ghost](https://github.com/Litorom/Litorom/blob/main/docs/wiki/characters/Ghost.md)
 * [Coil](https://github.com/Litorom/Litorom/blob/main/docs/wiki/characters/Coil.md)
