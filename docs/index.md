@@ -2,4 +2,4 @@
 
 * This Page is under construction
 
-## [???](docs/XP.html)
+## [???](/XP.html)
