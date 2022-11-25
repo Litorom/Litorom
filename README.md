@@ -1,6 +1,6 @@
 # Hello World! It's LitoRom1!
 
-([Portfolio](/docs/portfolio.md))
+([Portfolio](litorom.github.io/Litorom/portfolio.md))
 
 ![Views](https://komarev.com/ghpvc/?username=Litorom&theme=vue)
 [![Github](https://img.shields.io/github/followers/Litorom?label=Follow&style=social&theme=vue)](https://github.com/Litorom)
