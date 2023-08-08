@@ -16,3 +16,8 @@ Space Breaker:
 Mr. Monitor's Office
 * [Mr. Monitor](https://github.com/Litorom/Litorom/blob/main/docs/wiki/characters/MrMonitor.md)
 * [Lena](https://github.com/Litorom/Litorom/blob/main/docs/wiki/characters/Lena.md)
+
+Glaze Pet Simulator
+* [Glaze](https://github.com/Litorom/Litorom/blob/main/docs/wiki/characters/Glaze.md)
+* ???
+* 
