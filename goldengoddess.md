@@ -1,0 +1,3 @@
+# Creativity is seeing what others see and thinking what no one else ever thought. -Albert Einstein
+
+One day when the world clock rolls over over, shalt be the dawn of creative chaos. An explosion of creativity without bounds...
