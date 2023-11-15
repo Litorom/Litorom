@@ -6,3 +6,6 @@
 ## Teamed Projects:
 [PlayMinicraft](https://github.com/MinicraftPlus)
 - [Minicraft+](https://github.com/MinicraftPlus/minicraft-plus-revived)
+Team PartyAnimals
+- [King of the Party (Code Private)](https://litorom1.itch.io/king-of-the-party)
+- 
