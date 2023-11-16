@@ -21,12 +21,14 @@ Programming Langauges:
 ## Game Samples
 Games: 
 * [King of the Party](https://litorom1.itch.io/king-of-the-party)
+* [Space Breaker](https://gamejolt.com/games/Space-Breaker/481473)
+* [Mr. Monitor's Office](https://gamejolt.com/games/MrMonitorsOffice/481934)
 
 
 ## Coding Samples
 Section under construction
 
 ## Finishing statement
-Ready to expand skills and learn in the Gaming Industry as a Game Developer.
+Ready to expand skills and learn in the Gaming Industry as a Game Developer. Its my passion as well as my dream to make games and share not only the story but a game's essence
 
 return 0;
